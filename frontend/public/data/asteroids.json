@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T09:32:28.051Z",
+  "source": "demo",
+  "demo_mode": true,
+  "count": 4,
+  "asteroids": [
+    {
+      "id": "demo-001",
+      "name": "(Demo 2026 AX)",
+      "speed": 27.4,
+      "diameter": 0.82,
+      "miss_distance": 420000,
+      "is_hazardous": true,
+      "threat_score": 85,
+      "threat_level": "CRITICAL",
+      "nasa_url": null,
+      "absolute_magnitude": null,
+      "demo": true
+    },
+    {
+      "id": "demo-002",
+      "name": "(Demo 2026 BK)",
+      "speed": 18.1,
+      "diameter": 0.16,
+      "miss_distance": 1150000,
+      "is_hazardous": false,
+      "threat_score": 23,
+      "threat_level": "LOW",
+      "nasa_url": null,
+      "absolute_magnitude": null,
+      "demo": true
+    },
+    {
+      "id": "demo-003",
+      "name": "(Demo 2026 CN)",
+      "speed": 32.6,
+      "diameter": 1.42,
+      "miss_distance": 2900000,
+      "is_hazardous": true,
+      "threat_score": 76,
+      "threat_level": "HIGH",
+      "nasa_url": null,
+      "absolute_magnitude": null,
+      "demo": true
+    },
+    {
+      "id": "demo-004",
+      "name": "(Demo 2026 DP)",
+      "speed": 12.8,
+      "diameter": 0.05,
+      "miss_distance": 4800000,
+      "is_hazardous": false,
+      "threat_score": 6,
+      "threat_level": "LOW",
+      "nasa_url": null,
+      "absolute_magnitude": null,
+      "demo": true
+    }
+  ]
+}
